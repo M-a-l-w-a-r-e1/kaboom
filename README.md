@@ -1,2 +1,2 @@
 # kaboom
-Changes all active window titles to be awesome!!
+Changes all (main) active window titles to be awesome!!
