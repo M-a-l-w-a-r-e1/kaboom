@@ -8,7 +8,7 @@ namespace ConsoleApp1
     class Program
     {
         [DllImport("user32.dll")]
-        static extern bool SetWindowText(IntPtr hWnd, string text);
+        static extern bool SetWindowText(IntPtr hWnd, string text); // Thing used to change window text
 
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace ConsoleApp1
                 {
                     try
                     {
-                        SetWindowText(p.MainWindowHandle, "NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER"); // Try to change it's text to his
+                        SetWindowText(p.MainWindowHandle, "NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER"); // Try to change its text to this
                     }
                     catch (Exception)
                     {
