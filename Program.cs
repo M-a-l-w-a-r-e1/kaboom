@@ -18,7 +18,7 @@ namespace ConsoleApp1
                 {
                     try
                     {
-                        SetWindowText(p.MainWindowHandle, "NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER"); // Try to change its text to this
+                        SetWindowText(p.MainWindowHandle, "owned"); // Try to change its text to this
                     }
                     catch (Exception)
                     {
